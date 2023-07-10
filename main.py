@@ -1,3 +1,5 @@
-from funcs import add_
+from Funcs import add_, sub_
 
 add_(1, 2)
+
+sub_(1, 2)
